@@ -1,0 +1,1 @@
+console.log('Script script.js has been executed')
